@@ -5,7 +5,7 @@
 Hi, I'm Simão.
 ! I'm a Junior Java Developer at Objective.
 + Living in Curitiba, Brazil.
-- 21 years old
+- 22 years old
 # 📖 Studying Computer engenieer at UTFPR, Java and learning about functional languages.
 ```
 
