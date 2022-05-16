@@ -3,7 +3,7 @@
 
 ```diff
 Hi, I'm Simão.
-! I'm a Junior Java Developer at Objective.
+! I'm a Java Developer at Objective.
 + Living in Curitiba, Brazil.
 - 22 years old
 # 📖 Studying Computer engenieer at UTFPR, Java and learning about functional languages.
