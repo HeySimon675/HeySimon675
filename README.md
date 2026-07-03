@@ -22,7 +22,6 @@ Hi, I'm Simão.
  
   ##  
   <code>
-  <a href="https://www.instagram.com/eer_simon/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
-  <a href="https://www.linkedin.com/in/gabriel-sim%C3%A3o/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="https://www.linkedin.com/in/gabriel-simaoo/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </code>
 
